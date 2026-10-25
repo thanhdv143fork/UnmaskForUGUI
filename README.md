@@ -80,7 +80,7 @@ Find the manifest.json file in the Packages folder of your project and edit it t
 ```
 {
   "dependencies": {
-    "com.coffee.unmask": "https://github.com/mob-sakai/UnmaskForUGUI.git",
+    "com.coffee.unmask": "https://github.com/thanhdv143fork/UnmaskForUGUI.git",
     ...
   },
 }
@@ -88,7 +88,7 @@ Find the manifest.json file in the Packages folder of your project and edit it t
 
 To update the package, change suffix `#{version}` to the target version.
 
-* e.g. `"com.coffee.unmask": "https://github.com/mob-sakai/UnmaskForUGUI.git#2.0.0",`
+* e.g. `"com.coffee.unmask": "https://github.com/thanhdv143fork/UnmaskForUGUI.git#2.0.0",`
 
 Or, use [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) to install and update the package.
 
