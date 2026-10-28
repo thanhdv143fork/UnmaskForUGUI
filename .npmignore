@@ -9,3 +9,6 @@ Samples.meta
 *.tgz.meta
 .releaserc.json
 .github
+
+sync-log.md
+sync-log.md.meta
