@@ -37,3 +37,4 @@ Automatically updated by the [Sync Upstream](.github/workflows/sync-upstream.yml
 | 2026-11-24 12:24:15 | mob-sakai/UnmaskForUGUI | 33356da | Already up to date |
 | 2026-11-25 11:12:25 | mob-sakai/UnmaskForUGUI | 33356da | Already up to date |
 | 2026-11-26 10:48:54 | mob-sakai/UnmaskForUGUI | 33356da | Already up to date |
+| 2026-11-27 10:47:45 | mob-sakai/UnmaskForUGUI | 33356da | Already up to date |
